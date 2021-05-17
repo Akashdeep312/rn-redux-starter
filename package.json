@@ -1,0 +1,8 @@
+{
+  "name": "rn-redux-starter",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:Akashdeep312/rn-redux-starter.git",
+  "author": "Rises <Akashdeep312@gmail.com>",
+  "license": "MIT"
+}
